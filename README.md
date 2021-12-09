@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kpapatheodorou
 - 👀 I’m interested in statistics, anything related to data science, data engineering, mathematical modelling and machine learning.
 - 🌱 I’m currently learning on Data Engineering aspects
-- 💞️ I’m looking to collaborate on any project around the abomentioned topics.
+- 💞️ I’m looking to collaborate on any project around the abovementioned topics.
 - 📫 How to reach me at kleiwpapat<at>gmail<dot>com or via LinkedIn. 
 
 <!---
